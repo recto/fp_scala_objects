@@ -14,4 +14,5 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % 
 commonSourcePackages += "common"
 
 courseId := "bRPXgjY9EeW6RApRXdjJPw"
+scalastyleConfig := new File("scalastyle/scalastyle_config.xml")
 
